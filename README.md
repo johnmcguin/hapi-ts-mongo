@@ -38,8 +38,7 @@ npm run serve
 
 ## Contributing
 
-Please do! I'd love to see this project grow. Especially in the following areas.
-* Testing
+Please do!
 
 ## License
 
