@@ -1,0 +1,53 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+
+pids
+logs
+results
+tmp
+
+# --------------------
+# OSX Files
+# --------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# --------------------
+# Editors
+# --------------------
+.idea/
+
+# --------------------
+# VSCode Files
+# --------------------
+.vscode/
+
+# --------------------
+# Node Files
+# --------------------
+.nodemonignore
+npm-debug.log
+node_modules/
+
+# --------------------
+# environment variables
+# --------------------
+.env
+
+# --------------------
+# Built TS Files
+# --------------------
+/dist/**/*
