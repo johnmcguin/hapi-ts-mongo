@@ -38,7 +38,7 @@ npm run serve
 
 ## Contributing
 
-Please do!
+PRs welcome :)
 
 ## License
 
