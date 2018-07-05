@@ -23,11 +23,9 @@
     "boom": "^7.2.0",
     "dotenv": "^6.0.0",
     "hapi": "^17.5.1",
-    "hapi-auth-basic": "^5.0.0",
     "hapi-auth-cookie": "^9.0.0",
     "joi": "^13.4.0",
     "mongodb": "^3.1.0",
-    "mongoose": "^5.1.6",
     "uuid": "^3.2.1"
   },
   "devDependencies": {
@@ -37,7 +35,6 @@
     "@types/hapi": "^17.0.12",
     "@types/joi": "^13.3.0",
     "@types/mongodb": "^3.0.22",
-    "@types/mongoose": "^5.0.17",
     "@types/node": "^10.3.4",
     "nodemon": "^1.17.5",
     "ts-node": "^6.1.2",
