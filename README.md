@@ -13,6 +13,7 @@ npm i
 ```
 npm run dev
 ```
+* Write features! All features written as [Hapi plugins](https://hapijs.com/tutorials/plugins?lang=en_US) in the src/plugins directory. Make sure to export your feature plugins and add them to your src/plugins/index.ts features array
 ## Deployment
 
 Build the project with the following command:
